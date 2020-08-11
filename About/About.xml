@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>SF [v1.2] Rain Removes All Filth</name>
+		 <packageId>Shotgunfrenzy.Rain.Removes.Filth</packageId>
+		<supportedVersions>
+		<li>1.2</li>
+		<li>1.1</li>
+		</supportedVersions>
+		<author>Shotgunfrenzy</author>
+		<description>A simple patch that allows rain to remove filth such as dirt, sand and animal filth, Gives your vegeta-- I mean cleaner, a little bit less work when it's raining</description>
+</ModMetaData>
